@@ -1,0 +1,12 @@
+# pages to check
+
+https://devconnected.com/create-git-branch/#:~:text=The%20easiest%20way%20to%20create,branch%20you%20want%20to%20create.&text=To%20achieve%20that%2C%20you%20will,feature%E2%80%9D%20as%20the%20branch%20name.
+
+
+https://docs.github.com/es/github-ae@latest/get-started/using-git/pushing-commits-to-a-remote-repository
+
+https://docs.gitlab.com/ee/gitlab-basics/add-file.html
+
+https://www.freecodecamp.org/news/git-checkout-file-from-another-branch/
+
+https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/#how-to-remove-directories-folders
